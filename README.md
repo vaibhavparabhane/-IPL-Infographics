@@ -1,7 +1,3 @@
-If you're using **Google Colab** for your **IplInfographics** project, here's an updated **README** template that reflects the use of Google Colab for running your project:
-
----
-
 # IPL Infographics
 
 ## Project Overview
