@@ -29,6 +29,7 @@ To run the project in Google Colab, all you need is a **Google account** and acc
    - Use the following command to clone the repository directly into the Colab environment:
      ```python
      !git clone https://github.com/yourusername/IPLInfographics.git
+     
      ```
 
 2. **Install the necessary libraries**:
