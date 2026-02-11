@@ -1,18 +1,4 @@
-# IPL Infographics
 
-## Project Overview
-The **IPL Infographics** project provides visual representations and analytics of IPL (Indian Premier League) match data. It offers insights into player performance, team performance, and match statistics over the seasons. The project uses interactive visualizations and infographics to make IPL data easier to understand and analyze.
-
-## Features
-- **Data Visualization**: Interactive charts showcasing key statistics such as batting and bowling performance, match outcomes, team comparisons, and player statistics.
-- **Season Analysis**: Breakdown of IPL seasons, highlighting trends in team and player performances.
-- **Team and Player Insights**: Visual analysis of teams' and players' overall performance over the years.
-- **Match Statistics**: Analysis of individual matches, including runs, wickets, player stats, and more.
-- **Infographics**: Visually appealing charts and graphs to display IPL data in an engaging way.
-
-## Technologies Used
-- **Python**: For data processing and analysis.
-- **Pandas**: For handling and analyzing the data.
 - **Matplotlib** / **Seaborn**: For creating visualizations.
 - **Plotly**: For interactive visualizations (optional).
 - **Google Colab**: For running the project and creating interactive visualizations.
